@@ -1,4 +1,4 @@
 # Experimental-Design-Analysis
 
-Types of Design:
+## Types of Design:
 1. SPD
